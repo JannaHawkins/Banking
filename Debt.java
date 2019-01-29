@@ -1,4 +1,4 @@
-class Debt{
+class Debt extends Expense{
     String type;
     int amount;
     int interestRate;
