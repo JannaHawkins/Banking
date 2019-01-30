@@ -20,5 +20,5 @@ Coming soon: Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [CONTRIBUTING.md]
+Coming soon.
 
